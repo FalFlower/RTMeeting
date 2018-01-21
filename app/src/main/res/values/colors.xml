@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#cecdcd</color>
+    <color name="colorPrimaryDark">#cecdcd</color>
+    <color name="colorAccent">#eaeaea</color>
+</resources>
+
+    <!--ToolbarTextColor is textColorPrimary
+        ToolbarColor is colorPrimary
+        StatusBarColor is colorPrimaryDark
+        background is windowsBackground
+        FloatingActionsBarColor is colorAccent
+        VirtualButtonBar is navigationBarColor-->

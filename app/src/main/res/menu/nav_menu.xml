@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<group
+    android:checkableBehavior="single">
+    <item android:title="二维码"
+        android:id="@+id/nav_qr"
+        android:icon="@drawable/ic_qr"/>
+    <item android:title="位置"
+        android:id="@+id/nav_local"
+        android:icon="@drawable/ic_local"/>
+    <item android:title="设置"
+        android:id="@+id/nav_settings"
+        android:icon="@drawable/ic_settings"/>
+
+
+</group>
+
+</menu>
